@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucas-ferreira-baa513234">
+  <a href="https://www.linkedin.com/in/lucas-ferreira-de-morais-baa513234/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:fmdolucas@gmail.com">
@@ -145,7 +145,7 @@ UniCEUB · 2026–2029 · In progress
 I'm interested in opportunities involving **software development, QA, and test automation**.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucas-ferreira-baa513234">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/lucas-ferreira-de-morais-baa513234/">LinkedIn</a>
   &nbsp; · &nbsp;
   <a href="mailto:fmdolucas@gmail.com">Email me</a>
   &nbsp; · &nbsp;
